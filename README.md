@@ -18,3 +18,7 @@
 ## Key Insights for Presentation
 
 > I would like to focus on Prosper Ratings influences on some of the other variable since It has a strong positive relation on Loan Amount but a negative relation on Borrower APR. To do this a few multivariate plots will be done for Ratings and some few other variables. 
+
+
+
+>Link for the Main Dataset of the Prosper Loan Data https://drive.google.com/file/d/1haOU-lOSz8mPLzhS_aRAq9y3pm8zAjNe/view?usp=share_link
